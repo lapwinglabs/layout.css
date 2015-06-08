@@ -1,0 +1,7 @@
+{
+  "name": "layout.css",
+  "version": "1.0.0",
+  "description": "higher-level layout attributes using flexbox",
+  "main": "index.css",
+  "license": "mit"
+}
