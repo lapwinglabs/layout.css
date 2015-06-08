@@ -28,7 +28,7 @@ The difference between the polymer project and this project is that this project
 
 ## Credits
 
-layout.css is largely based on the work done by the [Polymer team](https://www.polymer-project.org/0.5/docs/polymer/layout-attrs.html).
+layout.css is largely based on the work done by the [Polymer team](https://www.polymer-project.org).
 
 ## License
 
