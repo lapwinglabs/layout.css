@@ -1,6 +1,6 @@
 # layout.css
 
-Wrapper around flexbox to make doing flexbox layouts simple and intuitive.
+Wrapper around flexbox to make doing flexbox layouts simple and declarative.
 
 ## Example
 
